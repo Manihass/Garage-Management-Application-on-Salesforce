@@ -20,7 +20,7 @@ A video demonstration of the project is available to provide a walkthrough of th
 ## Documentation
 The project is accompanied by detailed documentation that explains the process, configuration, and setup of the Garage Management Application. This includes a step-by-step guide on creating custom objects, setting up fields, and configuring dashboards.
 
-You can find the documentation [here](link_to_your_document).  
+You can find the documentation [here](Garage_Management_System_Manihass_Cheekati.pdf).  
 
 ## Project Setup
 To set up this project in your own Salesforce Developer Organization, follow these steps:
